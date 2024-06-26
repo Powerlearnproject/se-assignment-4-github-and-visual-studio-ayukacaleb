@@ -140,7 +140,7 @@ A pull request in GitHub is a request to merge changes from one branch into anot
    - Select the branch with your changes (`feature-new-feature`) as the compare branch and the target branch (`main`) as the base branch.
    - Provide a title and description summarizing the changes and click on "Create pull request".
 
-** Reviewing a Pull Request:**
+**Reviewing a Pull Request:**
 
 1. **Navigate to Pull Request**:
    - Open the pull request you or someone else created from the "Pull requests" tab in your repository.
@@ -235,7 +235,7 @@ It uses collaborative development, extending well beyond simple integration with
 
 3. **Issue Tracking**: It will use GitHub Issues as a way to keep tabs on bugs, features, and tasks; developers will relate issues to commits and pull requests to give transparency and traceability that are clear in the development lifecycle.
 
-4. ** GitHub Actions Automation**: Automation of build, test, and deploy in pipelines of CI/CD by events like pull request merge for better productivity, hence the maintenance of quality code.
+4. **GitHub Actions Automation**: Automation of build, test, and deploy in pipelines of CI/CD by events like pull request merge for better productivity, hence the maintenance of quality code.
 
 
 Submission Guidelines:
